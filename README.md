@@ -83,6 +83,43 @@ This collection of videos is provided as supplemental material for the paper NAM
     </tr>
 </table>
 
+### Additional Experiments
+#### Highlights
+<video controls preload=metadata style="width: 100%; max-width: 960px; height: auto; display: block;">
+  <source src="07_additional_experiments/match_highlights_2.mp4" type="video/mp4">
+</video>
+
+#### Full Matches
+<table style="width: 960px; table-layout: fixed;">
+    <colgroup>
+        <col style="width: 50%;">
+        <col style="width: 50%;">
+    </colgroup>
+    <tr>
+        <td>
+          <video controls preload=metadata style="width: 100%; max-width: 480px; height: auto; display: block;">
+            <source src="07_additional_experiments/Elite-F.mp4" type="video/mp4">
+          </video><p style="text-align:center;">Elite Player E</p>
+        </td>
+        <td>
+          <video controls preload=metadata style="width: 100%; max-width: 480px; height: auto; display: block;">
+            <source src="07_additional_experiments/Elite-G.mp4" type="video/mp4">
+            </video><p style="text-align:center;">Elite Player G</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+          <video controls preload=metadata style="width: 100%; max-width: 480px; height: auto; display: block;">
+            <source src="07_additional_experiments/Pro3-1.mp4" type="video/mp4">
+          </video><p style="text-align:center;">Pro Player 3 (1st Match)</p>
+        </td>
+        <td>
+          <video controls preload=metadata style="width: 100%; max-width: 480px; height: auto; display: block;">
+            <source src="07_additional_experiments/Pro3-2.mp4" type="video/mp4">
+            </video><p style="text-align:center;">Pro Player 3 (2nd Match)</p>
+        </td>
+    </tr>      
+</table>
 <footer>
   <p style="text-align:center;">© 2025 Sony Research Inc.</p>
 </footer>
