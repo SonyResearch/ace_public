@@ -118,6 +118,13 @@ This collection of videos is provided as supplemental material for the paper NAM
             <source src="07_additional_experiments/Pro3-2.mp4" type="video/mp4">
             </video><p style="text-align:center;">Pro Player 3 (2nd Match)</p>
         </td>
+    </tr>
+    <tr>
+        <td>
+          <video controls preload=metadata style="width: 100%; max-width: 480px; height: auto; display: block;">
+            <source src="07_additional_experiments/Pro4.mp4" type="video/mp4">
+            </video><p style="text-align:center;">Pro Player 4</p>
+        </td>
     </tr>      
 </table>
 <footer>
