@@ -8,6 +8,8 @@ Here we provide approximate Python code that replicates the most critical aspect
 
 The implementation uses TensorFlow. References to `tf.x` refer to TensorFlow API operations/classes, and references to `keras.x` refer to TensorFlow Keras API operations/classes.
 
+[Supplemental](supplemental.pdf)
+
 ## Training Loop Code
 
 ```python
