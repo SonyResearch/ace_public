@@ -1,7 +1,5 @@
 ## Ace Supplementary Material
 
-This collection of videos is provided as supplemental material for the paper NAME_LINK_TBD, published in NATURE_ISSUE_LINK_TBD
-
 This collection of videos is provided as supplemental material for the paper [Outplaying elite table tennis players with an autonomous robot](https://www.nature.com/articles/s41586-026-10338-5), published in [Nature, April 23, 2026](https://www.nature.com/nature/volumes/652/issues/8111).
 
 To learn more about Sony AI and the Ace project, please visit the [Ace project website](https://ace.ai.sony).
