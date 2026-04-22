@@ -4,6 +4,9 @@ This collection of videos is provided as supplemental material for the paper [Ou
 
 To learn more about Sony AI and the Ace project, please visit the [Ace project website](https://ace.ai.sony).
 
+- [Dataset](data/Readme.md)
+- [Approximate Python Code](pseudo_code/Readme.md)
+
 ### Match Highlights
 
 <video controls preload=metadata style="width: 100%; max-width: 960px; height: auto; display: block;">

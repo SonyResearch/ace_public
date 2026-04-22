@@ -4,6 +4,8 @@
 
 This dataset contains the post-event ball states from matches between an autonomous robot and human players, including five elite players and two professional players.
 
+[Dataset](match_data.csv)
+
 ## Dataset Format
 
 | Field | Type | Description |
