@@ -135,3 +135,9 @@ To learn more about Sony AI and the Ace project, please visit the [Ace project w
 <footer>
   <p style="text-align:center;">© 2026 Sony Research Inc.</p>
 </footer>
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org).
+
+[![CC BY-NC-ND 4.0](https://licensebuttons.net)](https://creativecommons.org)
